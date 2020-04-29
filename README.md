@@ -15,3 +15,5 @@ first use
 
 3. 本地仓库 合并 GitHub仓库  
 仓库右击Git ==> Repository ==> push   
+
+push时冲突，先pull
