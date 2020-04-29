@@ -16,4 +16,6 @@ first use
 3. 本地仓库 合并 GitHub仓库  
 仓库右击Git ==> Repository ==> push   
 
-push时冲突，先pull
+## push冲突
+1. 每次在写之前先pull保证新版；
+2. 在idea中push冲突会自动提示你merge手动修改
